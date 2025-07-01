@@ -7,7 +7,7 @@ Um elegante aplicativo de cartão de embarque desenvolvido com React Native e Ex
 ## 📱 Preview
 
 <div align="center">
-  <img src="../BoardingPass/src/assets/Screenshot_1751382130.png" alt="BoardingPass App Preview" width="300"/>
+  <img src="./src/assets/Screenshot_1751382130.png" alt="BoardingPass App Preview" width="300"/>
 </div>
 
 > 🚀 **Cartão de embarque digital** com design premium, QR code integrado e todas as informações essenciais do voo.
